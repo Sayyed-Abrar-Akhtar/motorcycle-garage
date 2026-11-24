@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"Northline Moto Works | Motorcycle Workshop",description:"Independent motorcycle workshop for servicing, repairs, restoration and custom builds."};export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
